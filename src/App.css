@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+}
+table {
+  border: medium solid #000000;
+  width: 50%;
+  margin: 100px;
+}
+td,
+th {
+  border: thin solid #6495ed;
+  width: 50%;
+}
